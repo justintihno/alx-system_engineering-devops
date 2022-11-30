@@ -13,3 +13,4 @@
 9. rmdir /tmp/folder deletes the directory folder that is in the /tmp directory.
 10. cd - changes the working directory to the previous one.
 11. ls -a -l . .. /boot lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+16. rm *[~] deletes all files in the current working directory that end with the character ~.
