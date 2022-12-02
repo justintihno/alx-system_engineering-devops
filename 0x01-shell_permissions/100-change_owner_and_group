@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo chown -R vincent:staff
+#!/bin/bash#nchown vincent:staff*
