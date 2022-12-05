@@ -1,2 +1,2 @@
 #!/bin/bash
-ls |sort /etc/passwd
+ compgen -u /etc/passwd | sort
