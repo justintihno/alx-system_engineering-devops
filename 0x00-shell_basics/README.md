@@ -3,10 +3,10 @@
 3. cd changes the working directory to the user’s home directory.
 4. ls -a -l displays current directory contents, including hidden files (starting with .). Use the long format.
 5. ls -a -n Display current directory contents:
-
 -Long format
 -With user and group IDs displayed numerically
 -And hidden files (starting with .).
+
 6. mkdir /tmp/folder  creates a directory named folder in the /tmp/ directory.
 7. mv /tmp/betty /tmp/folder/betty moves the file betty from /tmp/ to /tmp/folder.
 8. rm /tmp/folder/betty deletes the file betty. The file betty is in /tmp/folder
