@@ -1,5 +1,5 @@
 # Web infrastructure design
-##### DevOps SysAdmin web infrastructure
+#####	DevOps		SysAdmin	web infrastructure
 
 ## Concepts
 1. Network basics
@@ -23,14 +23,14 @@ Explained what each component is doing
 
 System redundancy: refers to the practice of incorporating backup or duplicate components within a system to ensure continued operation in the event of component failure.
 
-All the mentioned acronyms: 
-	1. LAMP: represents a popular open-source software stack used for building and deploying dynamic websites and web applications. It stands for;
-		Linux: The operating system used as the foundation for the server.
-		Apache: The web server software responsible for serving web content to clients.
-		MySQL: A relational database management system (RDBMS) used to store and manage data.
-		PHP: A server-side scripting language used for developing dynamic web applications.
+#### All the mentioned acronyms: 
 
+1. LAMP: represents a popular open-source software stack used for building and deploying dynamic websites and web applications. It stands for;
+	1. Linux: The operating system used as the foundation for the server.
+	2. Apache: The web server software responsible for serving web content to clients.
+	3. MySQL: A relational database management system (RDBMS) used to store and manage data.
+	4. PHP: A server-side scripting language used for developing dynamic web applications.
 
-	2. SPOF: Single Points of Failure refers to any component within a system that, if it fails, will cause the entire system to fail
+2. SPOF: Single Points of Failure refers to any component within a system that, if it fails, will cause the entire system to fail
 
-	3. QPS: Queries Per Second, a metric used to measure the rate at which queries or requests are processed by a system or application.
+3. QPS: Queries Per Second, a metric used to measure the rate at which queries or requests are processed by a system or application.
